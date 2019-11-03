@@ -10,5 +10,5 @@ The pygame library controls the sounds.
 
 RESULT: Fail.
 I used the gpiozero.Button module to play/stop the sound loop,
-and it will take TOO LONG time to respond.
+and it takes TOO LONG time to respond.
 Musicians are not capable to accept these kind of delay.
